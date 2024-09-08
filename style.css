@@ -1,0 +1,14 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box
+}
+.container{
+    height: 40px;
+    width:100vw ;
+    background-color: rgb(229, 221, 221);
+    overflow-x:none;
+    display:flex
+    align-items:center; 
+    justify-content:center; 
+}
